@@ -1,3 +1,3 @@
 # Demo Repo
 
-For leaning purpose only
+For leaning purpose only.
